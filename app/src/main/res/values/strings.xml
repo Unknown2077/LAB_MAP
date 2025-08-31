@@ -5,4 +5,6 @@
     <string name="button_name_value">Submit</string>
     <string name="name_greet">My name is:</string>
     <string name="name_empty">Field is empty!</string>
+    <string name="student_hint">Insert your student number</string>
+    <string name="student_invalid">Student number has to be 11 digits long</string>
 </resources>
